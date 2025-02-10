@@ -2,11 +2,11 @@
 
 ## Overview  
 This Power BI report analyzes the Global Electronics Retailer dataset on Maven's Analytics Data Playground, and provides insights on various key areas like:
-- Most Popular Brands by Season(Year)
+- Most Popular Brands by Season (Year)
 - Probability of sentimental influence in purchase
 - Total Revenue, Cost and Net Profit
 - Inventory Tracking
-- Geospatial Analysis
+- Geospatial Analysis etc
 
 ## Features  
 - Interactive dashboards  
