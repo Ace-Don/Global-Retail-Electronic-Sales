@@ -1,7 +1,12 @@
-# Power BI Report: [Global Retail Electronics Sales]
+# Power BI Report: Global Retail Electronics Sales
 
 ## Overview  
-This Power BI report analyzes [describe your dataset] and provides insights on [key areas of focus]. It helps visualize trends, track key performance indicators (KPIs), and enhance decision-making.
+This Power BI report analyzes the Global Electronics Retailer dataset on Maven's Analytics Data Playground, and provides insights on various key areas like:
+- Most Popular Brands by Season(Year)
+- Probability of sentimental influence in purchase
+- Total Revenue, Cost and Net Profit
+- Inventory Tracking
+- Geospatial Analysis
 
 ## Features  
 - Interactive dashboards  
@@ -10,8 +15,7 @@ This Power BI report analyzes [describe your dataset] and provides insights on [
 - Custom visualizations  
 
 ## Data Sources  
-- [Data Source 1]  
-- [Data Source 2]  
+- Maven Analytics Data Playground(https://app.mavenanalytics.io/datasets?search=glob)  
 - Data cleaned and transformed using Power Query  
 
 ## How to Use  
@@ -23,7 +27,7 @@ This Power BI report analyzes [describe your dataset] and provides insights on [
 - Power BI Desktop 
 
 ## Screenshots  
-![Dashboard Preview](screenshot.png)  
+![Dashboard Preview]()  
 
 ## Contributing  
 Feel free to submit pull requests or open issues for suggestions.  
