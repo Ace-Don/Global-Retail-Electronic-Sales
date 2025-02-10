@@ -27,7 +27,7 @@ This Power BI report analyzes the Global Electronics Retailer dataset on Maven's
 - Power BI Desktop 
 
 ## Screenshots  
-![Dashboard Preview]()  
+![Dashboard Preview](./Screenshots/Screenshot 2025-02-10 163312.png)  
 
 ## Contributing  
 Feel free to submit pull requests or open issues for suggestions.  
